@@ -1,0 +1,10 @@
+python-dotenv
+google-genai
+ipykernel
+pymupdf4llm
+streamlit
+fpdf
+markdown2
+markdown
+pdfkit
+reportlab
